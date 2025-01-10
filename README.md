@@ -9,6 +9,7 @@
 📂 Repository Contents
 
 PetalTorch/
+
 ├── train.py             # Script for training the model
 
 ├── predict.py           # Script for testing the model
@@ -30,6 +31,7 @@ Amazon Web Services (AWS): Supports GPU-enabled training.
 Command-Line Interface (CLI): For running the training and prediction scripts.
 
 🚀 Features
+
 #Transfer Learning:
 -Pre-trained models (vgg19, densenet121) for efficient training.
 
